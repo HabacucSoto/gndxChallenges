@@ -3,6 +3,6 @@
 ### Preview
 ![Image text](/01_404/project/src/assets/preview404.png)
 ### Files
-- *components/UI404.vue*
-- *router/index.js*
-- *views/404.vue*
+- *src/components/UI404.vue*
+- *src/router/index.js*
+- *src/views/404.vue*
