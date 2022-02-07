@@ -1,19 +1,8 @@
-# project
+# Challenge 01 - 404 Page Not Found
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Preview
+[Preview image](/01_404/project/src/assets/preview404.png)
+### Files
+- *components/UI404.vue*
+- *router/index.js*
+- *views/404.vue*
