@@ -6,3 +6,6 @@
 - *src/components/UI404.vue*
 - *src/router/index.js*
 - *src/views/404.vue*
+
+### Link
+- *https://gndx01-404.herokuapp.com/page2see404*
